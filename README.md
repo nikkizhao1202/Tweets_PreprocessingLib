@@ -6,7 +6,7 @@
 
 ## Overview
 <p> 
-  writing a Python library to perform preprocessing for a sentiment analysis tasktask with a CNN + Embedding model
+  Writing a Python library to perform preprocessing for a sentiment analysis tasktask with a CNN + Embedding model
 </p >
 
 
