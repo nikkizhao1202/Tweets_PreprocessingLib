@@ -24,7 +24,7 @@ class WordEmbedding():
         self.max_dictionary_size = max_dictionary_size
         self.dictionary_path = join(
             dirname(abspath(__file__)),
-            "..", "resources", "glove.twitter.27B.25d.txt")
+            "..", "golve_index.txt")
 
     def load_embedding_dictionary(self, file_path):
         """
